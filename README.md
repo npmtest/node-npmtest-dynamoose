@@ -1,4 +1,7 @@
-# test coverage for  [dynamoose (v0.7.0)](https://github.com/automategreen/dynamoose)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamoose.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamoose)
+# npmtest-dynamoose
+
+#### basic test coverage for  [dynamoose (v0.7.0)](https://github.com/automategreen/dynamoose)  [![npm package](https://img.shields.io/npm/v/npmtest-dynamoose.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dynamoose) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dynamoose.svg)](https://travis-ci.org/npmtest/node-npmtest-dynamoose)
+
 #### Dynamoose is a modeling tool for Amazon's DynamoDB (inspired by Mongoose)
 
 [![NPM](https://nodei.co/npm/dynamoose.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dynamoose)
